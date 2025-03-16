@@ -42,6 +42,8 @@ Contributors
 ============
 
 ## Protocol authors
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel?ref=badge_shield)
+
 
 * Frans Lundberg, ASSA ABLOY AB, Stockholm, Sweden.
 * Simon Johansson, ASSA ABLOY AB, Stockholm, Sweden.
@@ -157,3 +159,7 @@ Files
 
 * **build.xml** -- ANT build script. Just type "ant" for the default build.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel?ref=badge_large)
